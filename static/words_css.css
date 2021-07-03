@@ -1,0 +1,31 @@
+input{
+    float:left;
+     width: 200px;
+    height:35px;
+}
+label{
+    width: 200px;
+    height:35px;
+    border:1px solid black;
+    display: block;
+    float:right;
+    text-align: center;
+}
+
+.btn-warning{
+    float:center;
+}
+.btn-primary{
+    float:center;
+}
+body{
+    position:absolute;
+        top:50%;
+        left:50%;
+        margin:-200px 0 0 -200px;
+    border:1px solid black;
+}
+.col,.row{
+
+    padding: 5px;
+}

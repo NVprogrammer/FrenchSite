@@ -1,0 +1,16 @@
+img {
+    display: inline-block;
+    width: 320px !important;
+    height: 320px !important;
+}
+.container{
+    background-color: aqua;
+}
+.row{
+    padding: 5px;
+}
+.card{
+     display: inline-block;
+    width: 350px !important;
+    height: auto;
+}
